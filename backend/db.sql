@@ -5,4 +5,4 @@ CREATE TABLE todos (
   description VARCHAR(255)
 );
 
-INSERT INTO todos (description) VALUES ('I need to clean my room');
+INSERT INTO todos (description) VALUES ('I need to wash my car');
